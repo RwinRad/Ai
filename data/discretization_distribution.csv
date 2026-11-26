@@ -1,0 +1,12 @@
+Feature,Bin Code,Interval,Count,Percentage
+Age,0,"(-∞, 27.5]",549,74.59
+Age,1,"(27.5, 31.5]",50,6.79
+Age,2,"(31.5, 45]",81,11.01
+Age,3,"(45, ∞)",56,7.61
+Hours per day,0,"(-∞, 1.75]",165,22.42
+Hours per day,1,"(1.75, 2.25]",173,23.51
+Hours per day,2,"(2.25, 5.5]",264,35.87
+Hours per day,3,"(5.5, ∞)",134,18.21
+Anxiety score,0,Lower score,177,24.05
+Anxiety score,1,Middle score,198,26.9
+Anxiety score,2,Higher score,361,49.05
