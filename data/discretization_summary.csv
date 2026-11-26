@@ -1,0 +1,3 @@
+Feature,Number of Bins,Cut Points
+Age,4,"[27.5, 31.5, 45.0]"
+Hours per day,4,"[1.75, 2.25, 5.5]"
